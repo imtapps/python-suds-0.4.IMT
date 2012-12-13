@@ -26,7 +26,7 @@ import sys
 # Project properties
 #
 
-__version__ = '0.4.IMT'
+__version__ = '0.4.1.IMT'
 __build__="GA R699-20100913"
 
 #
